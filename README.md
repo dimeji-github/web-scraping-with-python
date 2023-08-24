@@ -1,1 +1,2 @@
-# web-scraping-with-python
+## Web Scraping With python
+Web scraping is the process of extracting information from websites. It involves fetching data from web pages, parsing the HTML content, and pulling the desired information for various purposes such as data analysis, research, or building applications. In this repository, I have pulled out data for the list of the world's billionaires from a Wikipedia page (URL: https://en.wikipedia.org/wiki/The_World%27s_Billionaires). The CSV format of the extracted information is one of the files in the repository.
